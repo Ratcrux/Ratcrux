@@ -1,4 +1,4 @@
-## Hi there 👋
+## Hello!
 
 <!--
 This is an about me that I will edit later.
